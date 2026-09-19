@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/leimo-frost">
+  <a href="https://github.com/leizmo-frost">
     <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2f81f7&fontSize=54&height=90&width=826&text=Hello!%20I'm%20Leizmo%20Frost" alt="Hello! I&#39;m Leizmo Frost" />
   </a>
 </p>
@@ -12,11 +12,11 @@
 
 A results-driven ICT professional based in Nairobi, passionate about crafting efficient web applications and solving complex technical problems.
 
-🔭 &nbsp;I'm currently working on **Building responsive web applications while practicing mobile development and expanding my portfolio.**  
-🌱 &nbsp;I'm currently learning **Advanced full-stack frameworks,native php and modern DevOps practices.**  
-👯 &nbsp;I'm looking to collaborate on **Open-source projects and web development initiatives.**  
-💬 &nbsp;Ask me about **Web development, hardware/software troubleshooting, and network configuration.**  
-⚡ &nbsp;Fun fact: **I have professional experience in hotel housekeeping, which means my code is just as spotless and organized as a five-star suite!**
+🔭 &nbsp; I'm currently working on **Building responsive web applications while practicing mobile development and expanding my portfolio.**  
+🌱 &nbsp; I'm currently learning **Advanced full-stack frameworks, native PHP, and modern DevOps practices.**  
+👯 &nbsp; I'm looking to collaborate on **Open-source projects and web development initiatives.**  
+💬 &nbsp; Ask me about **Web development, hardware/software troubleshooting, and network configuration.**  
+⚡ &nbsp; Fun fact: **I have professional experience in hotel housekeeping, which means my code is just as spotless and organized as a five-star suite!**
 
 ### 🛠️ Tech Stack
 
@@ -58,14 +58,14 @@ A results-driven ICT professional based in Nairobi, passionate about crafting ef
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=leimo-frost&show_icons=true&theme=tokyonight&title_color=2f81f7&icon_color=2f81f7&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=leimo-frost&layout=compact&theme=tokyonight&title_color=2f81f7&icon_color=2f81f7&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=leizmo-frost&show_icons=true&theme=tokyonight&title_color=2f81f7&icon_color=2f81f7&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=leizmo-frost&layout=compact&theme=tokyonight&title_color=2f81f7&icon_color=2f81f7&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=leimo-frost&bg_color=00000000&color=2f81f7&line=2f81f7&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=leizmo-frost&bg_color=00000000&color=2f81f7&line=2f81f7&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
 ### 💭 Dev Quote
@@ -75,4 +75,4 @@ A results-driven ICT professional based in Nairobi, passionate about crafting ef
 </p>
 
 ---
-<p align="center"><i>⭐️ From <a href="https://github.com/leimo-frost">leimo-frost</a></i></p>
+<p align="center"><i>⭐️ From <a href="https://github.com/leimo-frost">leizmo-frost</a></i></p>
